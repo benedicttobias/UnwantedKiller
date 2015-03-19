@@ -1,0 +1,8 @@
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\obj\Debug\UnwantedKiller.Form1.resources
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\obj\Debug\UnwantedKiller.Properties.Resources.resources
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\obj\Debug\UnwantedKiller.csproj.GenerateResource.Cache
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\bin\Debug\UnwantedKiller.exe.config
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\bin\Debug\UnwantedKiller.exe
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\bin\Debug\UnwantedKiller.pdb
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\obj\Debug\UnwantedKiller.exe
+D:\Work and Project\GitHub\UnwantedKiller\UnwantedKiller\obj\Debug\UnwantedKiller.pdb
